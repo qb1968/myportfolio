@@ -6,8 +6,8 @@
     "image":"me3.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "mark.allison75@gmail.com",
+    "phone": "336-539-5573",
     "address":{
       "street":"209 Roma Rd",
       "city":"Haw River",
@@ -97,35 +97,25 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Rick and Morty",
+        "category":"Fan site",
+        "image":"rick-morty.jpg",
+        "url":"https://serene-tereshkova-2232d4.netlify.app"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Data Driven Transit",
+        "category":"SFMTA Bus Routes",
+        "image":"route.jpg",
+        "url":"https://master.d3j9ctmbednoov.amplifyapp.com/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Movie Search",
+        "category":"Movie Database",
+        "image":"movie.jpg",
+        "url":"https://qb1968-jedi.netlify.app/"
       }
+      
+      
     ]
   },
   "testimonials":{
