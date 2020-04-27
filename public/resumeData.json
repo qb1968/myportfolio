@@ -99,21 +99,28 @@
       {
         "title":"Rick and Morty",
         "category":"Fan site",
-        "image":"rick-morty.jpg",
+        "image":"rickmorty.png",
         "url":"https://serene-tereshkova-2232d4.netlify.app"
+      },
+      {
+        "title":"Wunderlist",
+        "category":"ToDo List",
+        "image":"wunderlist.png",
+        "url":"https://frontend-f31fx9705.now.sh/"
       },
       {
         "title":"Data Driven Transit",
         "category":"SFMTA Bus Routes",
-        "image":"route.jpg",
+        "image":"labs.png",
         "url":"https://master.d3j9ctmbednoov.amplifyapp.com/"
       },
       {
         "title":"Movie Search",
         "category":"Movie Database",
-        "image":"movie.jpg",
+        "image":"movies.png",
         "url":"https://qb1968-jedi.netlify.app/"
       }
+      
       
       
     ]
