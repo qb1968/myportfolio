@@ -99,25 +99,36 @@
       {
         "title":"Rick and Morty",
         "category":"Fan site",
-        "image":"rickmorty.png",
+        "notes":"Built with React",
+        "image":"RM.png",
         "url":"https://serene-tereshkova-2232d4.netlify.app"
       },
       {
         "title":"Wunderlist",
         "category":"ToDo List",
-        "image":"wunderlist.png",
+        "notes":"Back-End Development",
+        "image":"Wunder.png",
         "url":"https://frontend-f31fx9705.now.sh/"
       },
       {
         "title":"Data Driven Transit",
         "category":"SFMTA Bus Routes",
-        "image":"labs.png",
-        "url":"https://master.d3j9ctmbednoov.amplifyapp.com/"
+        "notes":"Labs Project Front-End Dev.",
+        "image":"DDD.png",
+        "url":"https://datadriventransit.org"
+      },
+      {
+        "title":"Game Of Life",
+        "category":"Games",
+        "notes":"Built with React",
+        "image":"Game.png",
+        "url":"https://csbw1.now.sh"
       },
       {
         "title":"Movie Search",
         "category":"Movie Database",
-        "image":"movies.png",
+        "notes":"Built with React",
+        "image":"Movies.png",
         "url":"https://qb1968-jedi.netlify.app/"
       }
       
