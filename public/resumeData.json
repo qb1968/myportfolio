@@ -14,8 +14,7 @@
       "state":"North Carolina",
       "zip": "27258"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    
     "social":[
      
       
@@ -99,25 +98,38 @@
       {
         "title":"Rick and Morty",
         "category":"Fan site",
-        "image":"rickmorty.png",
+        "notes":"Built with React",
+        "link": "https://github.com/qb1968/Rick-Morty/tree/jonathan-allison",
+        "image":"RM.png",
         "url":"https://serene-tereshkova-2232d4.netlify.app"
       },
       {
         "title":"Wunderlist",
         "category":"ToDo List",
-        "image":"wunderlist.png",
+        "notes":"Back-End Development",
+        "link": "https://github.com/Build-Week-Wunderlist-4/Backend/tree/jonathan-allison",
+        "image":"Wunder.png",
         "url":"https://frontend-f31fx9705.now.sh/"
       },
       {
         "title":"Data Driven Transit",
         "category":"SFMTA Bus Routes",
-        "image":"labs.png",
-        "url":"https://master.d3j9ctmbednoov.amplifyapp.com/"
+        "notes":"Labs Project Front-End Dev.",
+        "image":"DDD.png",
+        "url":"https://datadriventransit.org"
+      },
+      {
+        "title":"Game Of Life",
+        "category":"Games",
+        "notes":"Built with React",
+        "image":"Game.png",
+        "url":"https://csbw1.now.sh"
       },
       {
         "title":"Movie Search",
         "category":"Movie Database",
-        "image":"movies.png",
+        "notes":"Built with React",
+        "image":"Movies.png",
         "url":"https://qb1968-jedi.netlify.app/"
       }
       
@@ -128,13 +140,11 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
-      },
-      {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"I really enjoyed working with Jonathan on the Labs 22 project. He had some keen insights that made the project come together in a delightful way. I was impressed that he could take my 3 paragraph idea and help create www.datadriventransit.org. He would be an asset to any team looking for someone that can take an idea, work with a multi-disciplinary team across the world, and bring it to life.",
+        "user":"Jarie Bolander  Author| Entrepreneur | Podcaster ",
+        "date": "May 1, 2020"
       }
+      
     ]
   }
 }
